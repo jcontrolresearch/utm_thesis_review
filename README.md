@@ -1,6 +1,6 @@
 # Revisión de tesis UTM
 
-Agente de VS Code para revisar avances de tesis en PDF de la **Maestría en Electrónica, opción Sistemas Inteligentes Aplicados (MESIA)** de la Universidad Tecnológica de la Mixteca, Oaxaca.
+Agente de VS Code para revisar avances de tesis en PDF de la **Maestría en Electrónica, opción Sistemas Inteligentes Aplicados (MEOSIA)** de la Universidad Tecnológica de la Mixteca, Oaxaca.
 
 ## Organización del proyecto
 
